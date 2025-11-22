@@ -24,8 +24,8 @@ $SourceDirSmb   = ""       # SMB mode: e.g., "\\SERVER\Share\Files"
 # ===================== FTP CONNECTION SETTINGS ================
 
 $FtpHost     = "127.0.0.1"
-$FtpUser     = "test"
-$FtpPassword = "mt07_cb500F"
+$FtpUser     = "username"
+$FtpPassword = "password"
 
 # FTP Security & Connection
 $FtpUseExplicitTls          = $false    # Enable TLS encryption (AUTH TLS)
